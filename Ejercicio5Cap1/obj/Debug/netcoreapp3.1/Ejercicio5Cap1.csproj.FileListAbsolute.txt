@@ -1,0 +1,13 @@
+C:\Users\JeryJ\source\repos\Ejercicio5Cap1\Ejercicio5Cap1\bin\Debug\netcoreapp3.1\Ejercicio5Cap1.exe
+C:\Users\JeryJ\source\repos\Ejercicio5Cap1\Ejercicio5Cap1\bin\Debug\netcoreapp3.1\Ejercicio5Cap1.deps.json
+C:\Users\JeryJ\source\repos\Ejercicio5Cap1\Ejercicio5Cap1\bin\Debug\netcoreapp3.1\Ejercicio5Cap1.runtimeconfig.json
+C:\Users\JeryJ\source\repos\Ejercicio5Cap1\Ejercicio5Cap1\bin\Debug\netcoreapp3.1\Ejercicio5Cap1.runtimeconfig.dev.json
+C:\Users\JeryJ\source\repos\Ejercicio5Cap1\Ejercicio5Cap1\bin\Debug\netcoreapp3.1\Ejercicio5Cap1.dll
+C:\Users\JeryJ\source\repos\Ejercicio5Cap1\Ejercicio5Cap1\bin\Debug\netcoreapp3.1\Ejercicio5Cap1.pdb
+C:\Users\JeryJ\source\repos\Ejercicio5Cap1\Ejercicio5Cap1\obj\Debug\netcoreapp3.1\Ejercicio5Cap1.csprojAssemblyReference.cache
+C:\Users\JeryJ\source\repos\Ejercicio5Cap1\Ejercicio5Cap1\obj\Debug\netcoreapp3.1\Ejercicio5Cap1.AssemblyInfoInputs.cache
+C:\Users\JeryJ\source\repos\Ejercicio5Cap1\Ejercicio5Cap1\obj\Debug\netcoreapp3.1\Ejercicio5Cap1.AssemblyInfo.cs
+C:\Users\JeryJ\source\repos\Ejercicio5Cap1\Ejercicio5Cap1\obj\Debug\netcoreapp3.1\Ejercicio5Cap1.csproj.CoreCompileInputs.cache
+C:\Users\JeryJ\source\repos\Ejercicio5Cap1\Ejercicio5Cap1\obj\Debug\netcoreapp3.1\Ejercicio5Cap1.dll
+C:\Users\JeryJ\source\repos\Ejercicio5Cap1\Ejercicio5Cap1\obj\Debug\netcoreapp3.1\Ejercicio5Cap1.pdb
+C:\Users\JeryJ\source\repos\Ejercicio5Cap1\Ejercicio5Cap1\obj\Debug\netcoreapp3.1\Ejercicio5Cap1.genruntimeconfig.cache
